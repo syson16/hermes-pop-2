@@ -1,0 +1,15 @@
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+.navbar {
+  height: 60px
+}
+
+main.container-fluid {
+  padding: 60px 0px 0;
+}
+
+footer {
+  padding-bottom: 60px;
+}
